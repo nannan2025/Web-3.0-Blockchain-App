@@ -1,6 +1,6 @@
 # Web-3.0-Blockchain-App
 
-This is a project that I designed for my independent study : Web Development
+
 
 In this project, I :
 
